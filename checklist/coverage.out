@@ -1,0 +1,4 @@
+mode: set
+checklistexample/main.go:7.13,11.2 3 0
+checklistexample/main.go:18.38,20.2 1 1
+checklistexample/main.go:26.32,28.2 1 1
